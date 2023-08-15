@@ -1,5 +1,13 @@
 ### Hi there 👋
 I am Harshita Khandelwal!
+
+- 🔭 I’m currently a Master in Computer Science Student at UCLA
+- 🌱 I’m currently learning more about Natural Language Processing and Large Language Models.
+- 👯 I’m looking to collaborate on something cool!
+- 🤔 I’m looking for help with full-time opportunities in Software Engineering & NLP space.
+- 📫 How to reach me: harshitaskh@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can't be tickled!
 <!--
 **tenzu15/tenzu15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
