@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Harshita Khandelwal!
 
-- 🔭 I’m currently a Master in Computer Science Student at UCLA
+- 🔭 I’m a Master in Computer Science Student from UCLA
 - 🌱 I’m currently learning more about Natural Language Processing and Large Language Models.
 - 👯 I’m looking to collaborate on something cool!
 - 🤔 I’m looking for help with full-time opportunities in Software Engineering & NLP space.
